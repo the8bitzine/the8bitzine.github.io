@@ -5,7 +5,7 @@ title = 'The 8-bit Zine'
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "the8bitzine-github-io" # Enable Disqus comments by entering your Disqus shortname
-googleAnalytics = "G-0ETS00HRPS" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "UA-201385947-2" # Enable Google Analytics by entering your tracking id
 
 
 

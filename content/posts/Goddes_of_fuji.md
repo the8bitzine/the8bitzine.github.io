@@ -1,5 +1,5 @@
 ---
-title: "Goddes of Fuji – Numen for Atari 8-bit"
+title: "Goddes of Fuji – Numen for an 8-bit Atari"
 date: 2021-09-04T13:55:27+02:00
 draft: false
 thumbnail: /upload/2021/numen1.jpg

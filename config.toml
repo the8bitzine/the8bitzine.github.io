@@ -91,3 +91,6 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[permalinks]
+    posts = "/:year/:month/:slug/"

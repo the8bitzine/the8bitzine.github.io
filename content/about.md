@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2021-08-28T13:55:28+02:00
-draft: true
+draft: flase
 thumbnail: /upload/2021/logo.svg
 sidebar: "right"
 menu: ["main", "side", "footer"]

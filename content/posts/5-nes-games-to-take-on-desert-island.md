@@ -1,7 +1,7 @@
 ---
 title: "5 NES games (including hidden gems) I would take on a desert island"
 date: 2021-08-16T13:54:27+02:00
-draft: true
+draft: false
 thumbnail: /upload/2021/just_breed.png
 tags: ["games", "top 5", "nes"]
 categories: ["Games", "Top 5", "6502"]

@@ -1,7 +1,7 @@
 ---
 title: "1K ZX Chess – a tiny game"
 date: 2021-09-13T11:55:28+02:00
-draft: true
+draft: false
 thumbnail: /upload/2021/1kzxchess.png
 tags: ["games", "ZX81", "Z80"]
 categories: ["Games", "Programs", "ZX81"]

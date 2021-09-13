@@ -10,7 +10,7 @@ comments: true
 ---
 
 
-Have you ever thought about minimizing your game collection, so you would have only titles which you absolutely love? It may be an interesting idea if you think about it. Here is my „Top 5” but order does not matter, since every game is different and unique.  
+Have you ever thought about minimizing your game collection, so you would have only titles which you absolutely love? It may be an interesting idea if you think about it. Here is my *Top 5* but order does not matter, since every game is different and unique.  
   
 **DR. MARIO**  
 <img src="/upload/2021/Dr_mario_screenshot.gif" alt="Dr. Mario NES screenshot" class="post_img_center">  

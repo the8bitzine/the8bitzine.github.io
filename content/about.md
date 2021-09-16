@@ -22,5 +22,5 @@ The 8-bit Zine is a blog about retro computers, vintage games, demoscene and dig
 ### Author
   
 <img src="/upload/2021/author_sq_300.jpg" alt="Author picture" class="post_img_right">  
-I use a nickname, Distortiongain. I grew up at the turn of the 1980s and 1990s, behind the Iron Curtain. Unfortunately, I have never been creatively associated with the demoscene, I was rather an observer. I studied musicology and cultural anthropology, within these fields I undertook the analysis of the demoscene as a cultural and artistic phenomenon. Professionally, I was also a programmer and graphic designer, I wrote music theatre performances, small computer games and various art projects.
+<span>I use a nickname, Distortiongain. I grew up at the turn of the 1980s and 1990s, behind the Iron Curtain. Unfortunately, I have never been creatively associated with the demoscene, I was rather an observer. I studied musicology and cultural anthropology, within these fields I undertook the analysis of the demoscene as a cultural and artistic phenomenon. Professionally, I was also a programmer and graphic designer, I wrote music theatre performances, small computer games and various art projects.</span>
 

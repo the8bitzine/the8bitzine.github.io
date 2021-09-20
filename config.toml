@@ -34,7 +34,7 @@ googleAnalytics = "UA-201385947-2" # Enable Google Analytics by entering your tr
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
   highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
   customCSS = ["css/custom.css"] # Include custom CSS files
-  customJS = ["js/custom.js"] # Include custom JS files
+  #customJS = ["js/custom.js"] # Include custom JS files
 
 
 [[Params.widgets.social.custom]]

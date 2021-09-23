@@ -1,7 +1,7 @@
 ---
 title: "From zero to 6502 assembly - how to teach yourself programming"
-date: 2021-09-23T10:55:28+02:00
-draft: true
+date: 2021-09-23T09:55:28+02:00
+draft: false
 thumbnail: /upload/2021/assembly.jpg
 tags: ["assembly", "programming", "code", "6502", "6502 assembly", "demoscene"]
 categories: ["Programming", "6502"]

@@ -32,8 +32,7 @@ There is (and is quite popular with retro computer enthusiasts) the Batari Basic
   
 I can venture to say that today, **Python** is what BASIC used to be - a simple language for everyone. In addition, it has a huge number of libraries that allow for easy and quick creation of programs that perform almost any task. I started programming in Python a few years ago, I wrote and sold my first commercial program after a few days of learning, interestingly, thanks to the available libraries, my program only had 17 lines of code.  
   
-**Pros of Python**: Python is a very beginner-friendly language, and writing a useful program can often be as simple as using the right library. One of the many libraries available for Python is [PyGame](https://www.pygame.org/) for graphics and game development. Python and PyGame are a quick start to gamedev. Due to the fact that it is a scripting language, your program will run on any modern computer (although in order to achieve this, the programmer needs to be aware of some basic aspects).  sidebar: "right"
-comments: true
+**Pros of Python**: Python is a very beginner-friendly language, and writing a useful program can often be as simple as using the right library. One of the many libraries available for Python is [PyGame](https://www.pygame.org/) for graphics and game development. Python and PyGame are a quick start to gamedev. Due to the fact that it is a scripting language, your program will run on any modern computer (although in order to achieve this, the programmer needs to be aware of some basic aspects).  
   
 **Cons of Python**: aside from the fact that it allows you to learn programming, it's actually not very much related to the demoscene. It is a scripting language, which makes any program written in Python much slower than a compiled program (although it is possible to create executable binary files from Python code).  
   

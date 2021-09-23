@@ -3,6 +3,7 @@ title: "1K ZX Chess – a tiny game"
 date: 2021-09-13T11:55:28+02:00
 draft: false
 thumbnail: /upload/2021/1kzxchess.png
+lead: "1K ZX Chess is a program that has gone down in the history of computer science. Over the years, it has been an excellent example of optimization. "
 tags: ["games", "ZX81", "Z80"]
 categories: ["Games", "Programs", "ZX81"]
 sidebar: "right"

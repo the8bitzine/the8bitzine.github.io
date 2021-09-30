@@ -64,7 +64,7 @@ After .musicxml file is created, we can convert it to Amiga MOD format with scor
 Go to directory where score2tracker.py sits and type  
 `python3 score2tracker.py --i /path/to/file.musicxml --txt log.txt`  
 script will ask you to select parts and staffs for each MOD channel. P1 is usually your first (top-most) instrument, P2 one below, and so on. If an instrument will be written on more than one staff, staffs will have numbers (i.e. Piano is written on two staffs, so if it is first instrument, it is described as P1, and also has staffs – treble is 1 and bass is 2), if instrument has only one staff, numbers like 1 or highest available should work.  
-![score2tracker.py converting XML to MOD in commandline](https://github.com/the8bitzine/the8bitzine.github.io/blob/media/media/2021/selecting_staff.png) 
+![score2tracker.py converting XML to MOD in commandline](https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/selecting_staff.png) 
   
 Open generated MOD in ProTracker Clone and add samples. Your notes should have assigned samples numbers: 1- for first track in first channel, 2 – for second and so on. All you need to do is to assign samples to numbers. First set sample number on left-hand side in main window, next click `DISK OP`. and `LOAD SAMPLE`. Repeat it for every sample number and that’s it – your MOD file should be ready!
 You can use my free samples: [the8bitzine_samples.zip](https://github.com/the8bitzine/the8bitzine.github.io/raw/media/media/2021/the8bitzine_samples.zip)

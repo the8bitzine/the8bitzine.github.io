@@ -25,7 +25,7 @@ Among other things, booklets included listings of three versions of the "operati
 Technical specifications:  
 
 | **CPU:** | U880 (clone of Z80) or Z80 @ 4MHz |  
-| ----------- | ----------- |
+------------ | -----------: |
 **Input/Output interface:** | Intel 8255 (additional 8255 led out to pins that can be used freely) 
 **Sound:** | 74HC123 monostable multivibrator and speaker
 **Peripherials:** | casette recorder for saving and loading programms written by users

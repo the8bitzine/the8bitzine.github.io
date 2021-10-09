@@ -6,6 +6,8 @@ thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/m
 lead: "One of the first computer kits in the Eastern Bloc had a primitive calculator display and a minimalist keyboard that allowed hexadecimal entry."
 tags: ["computer", "CA80", "MIK", "MIK CA80", "kit", "computer kit", "polish computer kit"]
 categories: ["Computers", "Z80"]
+sidebar: "right"
+comments: true
 ---
 
 Even before the microcomputer boom in Europe, enthusiasts were using computer kits that they were assembling themselves. This avant-garde of eight-bit computing seemed primitive compared to popular home computers. However, it was little known computers such as the Sinclair MK-14 that inspired the first bedroom-coders. This post however is about a different computer, unknown on the West, forgotten on the East - MIK CA80, early Polish mikrocomputer.  

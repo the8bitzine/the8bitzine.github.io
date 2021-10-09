@@ -6,6 +6,8 @@ thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/m
 lead: "The 65XE was the last model of a series of eight-bit computers manufactured by Atari. This comuter has become an icon in Eastern Europe."
 tags: ["computer", "atari", "65XE", "ANTIC", "GTIA", "POKEY"]
 categories: ["Computers", "6502"]
+sidebar: "right"
+comments: true
 ---
 
 The Commodore 64 is the most popular personal computer of all time to this day. In the 1980s, however, the world was divided by the Iron Curtain, and things were fundamentally different on the socialist side of Europe. The Commodore 64 was not available in the countries of the Eastern Bloc. Here market was dominated by the Soviet clones Sinclair machines and... Atari 65XE.  

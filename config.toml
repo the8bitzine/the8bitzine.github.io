@@ -64,7 +64,7 @@ googleAnalytics = "UA-201385947-2" # Enable Google Analytics by entering your tr
   list = "left"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+  widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages", "kofi"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
   # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 

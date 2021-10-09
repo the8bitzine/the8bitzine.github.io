@@ -35,3 +35,9 @@ Technical specifications:
 It was possible to expand the CA80 by soldering additional RAM chips.  
   
 The 1984 version of CA80 did not have a housing. In 1990, a new version of the computer was released, with double-sided plates and a calculator housing.
+
+TRANSARCTICA| Amiga, Atari ST, Falcon, DOS, Mac |
+------------ | -----------: |
+GFX:| 7/10 |
+MSX: | 6/10 |
+PLAYABILITY:| 8/10|

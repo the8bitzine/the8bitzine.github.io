@@ -24,20 +24,15 @@ Among other things, booklets included listings of three versions of the "operati
   
 Technical specifications:  
 
-**CPU:** U880 (clone of Z80) or Z80 @ 4MHz  
-**Input/Output interface:** Intel 8255 (additional 8255 led out to pins that can be used freely)  
-**Sound:** 74HC123 monostable multivibrator and speaker  
-**Peripherials:** casette recorder for saving and loading programms written by users  
-**Memory:** 64 KB (including 16 KB ROM)  
-**Keyboard:** keyboard for hexadecimal input + four function keys.  
-**Display:** eight position, seven-segment display (VFD or LED)  
+CPU:| U880 (clone of Z80) or Z80 @ 4MHz |
+------------ | -----------: |
+Input/Output interface:| Intel 8255 (additional 8255 led out to pins that can be used freely) |
+Sound: | 74HC123 monostable multivibrator and speaker |
+Peripherials:| casette recorder for saving and loading programms written by users|
+Memory:| 64 KB (including 16 KB ROM)|
+Keyboard:| keyboard for hexadecimal input + four function keys|
+Display:| eight position, seven-segment display (VFD or LED)| 
   
 It was possible to expand the CA80 by soldering additional RAM chips.  
   
 The 1984 version of CA80 did not have a housing. In 1990, a new version of the computer was released, with double-sided plates and a calculator housing.
-
-TRANSARCTICA| Amiga, Atari ST, Falcon, DOS, Mac |
------------- | -----------: |
-GFX:| 7/10 |
-MSX: | 6/10 |
-PLAYABILITY:| 8/10|

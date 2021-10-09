@@ -21,5 +21,16 @@ The sound generation was handled by the POKEY circuit, which had four channels b
   
 The Atari 65XE is still at the forefront of my favourite 8-bit machines today, largely due to nostalgia. However, I do not miss the slow loading of programs from a tape recorder (although this one, a curiosity here, had a double head that allowed music to be placed on tapes with software).
 Perhaps, however, this slow tape recorder had some positive influence on my life. Often, while waiting for the game to load, we went out with my friends to play football. 
+  
+  
+
+Technical specifications:  
+
+| **CPU:** | 6502C @ 1.7 MHz |  
+| ----------- | ----------- |
+**Input/Output interface:** | PIA 6520 (two joistics ports), Parallel Bus Interface 
+**Sound:** | POKEY (four audio channels)
+**Memory:** | 64 KB 
+
 
 

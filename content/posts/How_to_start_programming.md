@@ -58,4 +58,4 @@ However, it should be noted that the programming tools proposed in the book are 
   
 This text does not describe all available languages, libraries or possibilities. It is only meant to inspire people who are looking for their way. If you can suggest other interesting tools or sources of knowledge - let me know in the comment. 
   
-If you are interested what to do after you gain basic knowledge, read article about the [5 Easy project ideas for beginner coders]()
+If you are interested what to do after you gain basic knowledge, read article about the [5 Easy project ideas for beginner coders](https://the8bitzine.github.io/2021/10/5-easy-project-ideas-for-beginner-coders/)

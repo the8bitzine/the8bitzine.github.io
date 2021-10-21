@@ -57,3 +57,5 @@ Sometimes, finding one good book can be the solution to a novice programmer's pr
 However, it should be noted that the programming tools proposed in the book are not any more the best choice. It is worth taking an interest in the compilers available today: [XASM](https://github.com/pfusik/xasm), [CA65](https://cc65.github.io/) - yes, ca65 is a part of cc65.  
   
 This text does not describe all available languages, libraries or possibilities. It is only meant to inspire people who are looking for their way. If you can suggest other interesting tools or sources of knowledge - let me know in the comment. 
+  
+If you are interested what to do after you gain basic knowledge, read article about the [5 Easy project ideas for beginner coders]()

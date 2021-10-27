@@ -1,0 +1,12 @@
+{{ if and (index .Params "comments" | default "true") (not .Site.IsServer) }}
+<section class="comments">
+	<script src="https://utteranc.es/client.js"
+        repo="the8bitzine/utterances"
+        issue-term="title"
+        label="Comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+	</script>
+</section>
+{{ end }}

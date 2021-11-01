@@ -31,9 +31,9 @@ Technical specifications:
 
 CPU:| 6502C @ 1.7 MHz |
 ------------ | -----------: |
-Input/Output interface:| PIA 6520 (two joistics ports), Parallel Bus Interface |
+Input/Output interface:| PIA 6520 (two joystics ports), Parallel Bus Interface |
 Sound: | POKEY (four audio channels) |
 Memory:| 64 KB |
 
 
-
+Illustration: Plato and Aristotle discuss the Atari computer - depicted by Raphael, year 1511.

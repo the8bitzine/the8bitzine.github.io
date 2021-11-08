@@ -1,6 +1,6 @@
 ---
 title: "Atari 2600 - the console that started it all"
-date: 2021-11-01T11:00:28+02:00
+date: 2021-11-01T11:00:28
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/Vincent_van_Gogh_-_Atari_2600_in_Bedroom_in_Arles_1888.jpg
 lead: "It wasn't the first console, but it was the first to be successful. And it is still alive."

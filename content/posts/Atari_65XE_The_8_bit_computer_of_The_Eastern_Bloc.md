@@ -1,6 +1,6 @@
 ---
 title: "Atari 65XE The 8 bit computer of The Eastern Bloc"
-date: 2021-09-20T11:00:28+02:00
+date: 2021-09-20T11:00:28
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/65xe_cover.jpg
 lead: "The 65XE was the last model of a series of eight-bit computers manufactured by Atari. This comuter has become an icon in Eastern Europe."

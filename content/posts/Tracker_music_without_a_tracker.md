@@ -1,6 +1,6 @@
 ---
 title: "Tracker music without a tracker"
-date: 2021-09-27T20:00:28+02:00
+date: 2021-09-27T20:00:28
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/pro-tracker-2-clone.png
 lead: "We (almost) don't need to use trackers to create music on retro computers. There is an easier way."

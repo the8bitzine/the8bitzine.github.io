@@ -1,6 +1,6 @@
 ---
 title: "5 NES games (including hidden gems) I would take on a desert island"
-date: 2021-09-16T11:55:27+02:00
+date: 2021-09-16T11:55:27
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/just_breed.png
 lead: "Just 5 NES games you may not know about, but they are great."

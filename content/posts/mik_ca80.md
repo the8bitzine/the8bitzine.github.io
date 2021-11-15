@@ -1,6 +1,6 @@
 ---
 title: "MIK CA80 - Arduino of Eastern Bloc"
-date: 2021-10-09T13:20:28+02:00
+date: 2021-10-09T13:20:28
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/MIK_CA80_cropped.jpg
 lead: "One of the first computer kits in the Eastern Bloc had a primitive calculator display and a minimalist keyboard that allowed hexadecimal entry."

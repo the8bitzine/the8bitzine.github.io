@@ -1,6 +1,6 @@
 ---
 title: "From zero to 6502 assembly - how to teach yourself programming"
-date: 2021-09-23T09:55:28+02:00
+date: 2021-09-23T09:55:28
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/assembly.jpg
 lead: "Have you ever thought about writing your own demo or game but you don't know where to start? In this post, I've gathered resources - from the basics to advanced programming."

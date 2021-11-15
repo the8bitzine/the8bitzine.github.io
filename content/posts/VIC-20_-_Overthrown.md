@@ -1,6 +1,6 @@
 ---
 title: "Overthrown - action game for Commodore VIC-20"
-date: 2021-10-25T11:00:10+30:00
+date: 2021-10-25T11:00:10
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/overthrown_vic20.jpg
 lead: "Run! And don't let anyone stop you!"

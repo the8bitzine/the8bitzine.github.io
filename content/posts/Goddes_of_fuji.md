@@ -1,6 +1,6 @@
 ---
 title: "Goddes of Fuji – Numen for an 8-bit Atari"
-date: 2021-09-04T13:55:27+02:00
+date: 2021-09-04T13:55:27
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/numen1.jpg
 lead: "The most technologically advanced demo on the 8-bit Atari required as much as 130 kB of RAM to run smoothly."

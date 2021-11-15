@@ -1,6 +1,6 @@
 ---
 title: "5 Easy project ideas for beginner coders"
-date: 2021-10-21T11:40:28+02:00
+date: 2021-10-21T11:40:28
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/fancyretro.jpg
 lead: "This article will give you an idea about what you can do once you have mastered the basics of programming."

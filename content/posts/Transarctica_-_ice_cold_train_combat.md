@@ -1,6 +1,6 @@
 ---
 title: "Transarctica - ice cold train combat"
-date: 2021-09-30T13:55:10+30:00
+date: 2021-09-30T13:55:10
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/transarctica_front.png
 lead: "This is everything I need from computer game - strategy, tactic combat and cool (literally) setting."

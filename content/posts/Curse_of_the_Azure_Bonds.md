@@ -24,3 +24,9 @@ The plot is simple. We wake up with mysterious tattoos, we have been marked with
 Moving around, we see the world with first-person perspective, when we meet opponents, the view switches to tactical mode. It is possible to choose automatic combat. Indeed, the combat mode has a similar feel to one from Final Fantasy Tactics, although of course the graphics are simple. Map-view helps with longer trips. The graphics are not ambitious, just correct. No animation or very basic, although some enemy sprites are very nice. For retro-rpg fans, this might be enough. Curse of the Azure Bonds has a high level of difficulty, even compared to Pool of Radiance. I played this game on an emulator, using the benefits of this software to save my progress. I don't know if I could play on the original computer.
 
 On Amiga and Atari computers, the gameplay is made more pleasant by quite good music, which cannot be said about the MS-DOS version.
+
+CURSE OF THE AZURE BONDS| Amiga, Atari ST, Commodore 64, Apple II, DOS, Mac |
+------------ | -----------: |
+GFX:| 6/10 |
+MSX: | 6/10 |
+PLAYABILITY:| 7/10|

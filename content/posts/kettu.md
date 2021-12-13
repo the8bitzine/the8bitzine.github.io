@@ -47,7 +47,7 @@ In order for WaveShare displays to work properly on the Raspberry Pi, you should
 Copy display drivers:  
 ~~~
 git clone https://github.com/waveshare/LCD-show
-sudo cp waveshare-dtoverlays/waveshare35a-overlay.dtb /boot/overlays/waveshare35a.dtbo
+sudo cp LCD-show/waveshare35a-overlay.dtb /boot/overlays/waveshare35a.dtbo
 ~~~ 
   
 Add the overlays params to `/boot/config.txt`  

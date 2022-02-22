@@ -10,7 +10,7 @@ sidebar: "right"
 comments: true
 ---
 
-This "open source" simulator was writen around 1972 and published in 1977 - long before open source movement came to existance and a little bit before it's author got his first computer. And it runs (flights?) on a scientific calculator with a segment-display.  
+This "open source" simulator was writen around 1972 and published in 1977 - long before open source movement came to existance and a little bit before it's author got his first computer. And it runs (flies?) on a scientific calculator with a segment-display.  
   
 Paul Lutus has become a legend among computer enthusiasts thanks to his brilliant career from a self-taught electronics technician to a NASA engineer. He is also a programmer who was the first one to work remotely in the 1970s. Without Teams, Slack or GIT, he worked as a developer for Apple in his woods cabin on the 8-bit Apple II.  
   

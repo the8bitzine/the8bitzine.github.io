@@ -13,7 +13,7 @@ comments: true
 Palace situation turns grim  
 crowds chant "go away"  
 
-If I were a dictator, I would take everything valuable and run away. This is exactly what you need to do in the game **Overthrown** for the **Commodore VIC-20**.  
+If I were a dictator, I would take everything valuable and run away. This is exactly what you need to do in the game **Overthrown** for the [Commodore VIC-20](https://the8bitzine.github.io/2022/02/commodore-vic-20-when-computers-found-their-way-home/).  
   
 Some of us remember the times when eight-bit computers were every teenager's dream. Slightly younger ones may remember the classic versions of GTA games, those with simple graphics and a top-down view. Later, 3D graphics almost completely dominated the gaming world. Perhaps we forgot about the fact that sometimes the simplest graphic design is enough to provide emotions.  
   

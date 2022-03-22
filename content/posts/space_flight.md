@@ -1,6 +1,6 @@
 ---
 title: "Space Flight by Paul Lutus"
-date: 2022-02-08T14:00:10
+date: 2022-02-08T14:00
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2022/spacex-pexels.jpg
 lead: "Try to land a spacecraft with a calculator"

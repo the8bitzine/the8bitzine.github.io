@@ -55,7 +55,8 @@ googleAnalytics = "UA-201385947-2" # Enable Google Analytics by entering your tr
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/logo.svg" # Logo image. Path relative to "static"
+  image = "https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2022/logo_ukr.svg"
+  # image = "https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/logo.svg" # Logo image. Path relative to "static"
   title = "" # Logo title, otherwise will use site title
   subtitle = "" # Logo subtitle
 

@@ -1,6 +1,6 @@
 ---
 title: "1K ZX Chess – a tiny game"
-date: 2021-09-13T11:55
+date: 2021-09-13T11:55:28
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2021/1kzxchess.png
 lead: "1K ZX Chess is a program that has gone down in the history of computer science. Over the years, it has been an excellent example of optimization."

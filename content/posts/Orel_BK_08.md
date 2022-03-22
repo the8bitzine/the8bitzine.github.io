@@ -1,6 +1,6 @@
 ---
 title: "OREL BK-08 - a better speccy from Ukraine"
-date: 2022-03-22T13:20
+date: 2022-03-22T13:20:28
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2022/Orel_BK08.jpg
 lead: "One of the first computer kits in the Eastern Bloc had a primitive calculator display and a minimalist keyboard that allowed hexadecimal entry."

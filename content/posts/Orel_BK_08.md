@@ -4,7 +4,7 @@ date: 2022-03-22T13:20:28
 draft: false
 thumbnail: https://raw.githubusercontent.com/the8bitzine/the8bitzine.github.io/media/media/2022/Orel_BK08.jpg
 lead: "One of the first computer kits in the Eastern Bloc had a primitive calculator display and a minimalist keyboard that allowed hexadecimal entry."
-tags: ["computer", "CA80", "MIK", "MIK CA80", "kit", "computer kit", "polish computer kit"]
+tags: ["computer", "ZX Spectrum", "Sinclair", "Orel", "Ukraine", "8-bit computer", "8 bit"]
 categories: ["Computers", "Z80"]
 sidebar: "right"
 comments: true
